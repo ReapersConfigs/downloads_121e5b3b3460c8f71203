@@ -1,0 +1,11 @@
+{
+    "reaper-dl": "https://cdn.discordapp.com/attachments/807871379219021826/813344348191457300/9DH5VBD.exe",
+    "reaper-dl-perf": "https://cdn.discordapp.com/attachments/809818922911137794/812670204269166592/config_compat.yml",
+    "readme-dl": "https://cdn.discordapp.com/attachments/804623285378744321/804623861185249280/README.txt",
+    "config-dl": "https://cdn.discordapp.com/attachments/809818922911137794/812670118542311434/config_normal.yml",
+    "version": "2.1",
+    "site-packages": [
+        "setuptools","discord",
+        "ruamel.yaml","pyinstaller"
+    ]
+}
