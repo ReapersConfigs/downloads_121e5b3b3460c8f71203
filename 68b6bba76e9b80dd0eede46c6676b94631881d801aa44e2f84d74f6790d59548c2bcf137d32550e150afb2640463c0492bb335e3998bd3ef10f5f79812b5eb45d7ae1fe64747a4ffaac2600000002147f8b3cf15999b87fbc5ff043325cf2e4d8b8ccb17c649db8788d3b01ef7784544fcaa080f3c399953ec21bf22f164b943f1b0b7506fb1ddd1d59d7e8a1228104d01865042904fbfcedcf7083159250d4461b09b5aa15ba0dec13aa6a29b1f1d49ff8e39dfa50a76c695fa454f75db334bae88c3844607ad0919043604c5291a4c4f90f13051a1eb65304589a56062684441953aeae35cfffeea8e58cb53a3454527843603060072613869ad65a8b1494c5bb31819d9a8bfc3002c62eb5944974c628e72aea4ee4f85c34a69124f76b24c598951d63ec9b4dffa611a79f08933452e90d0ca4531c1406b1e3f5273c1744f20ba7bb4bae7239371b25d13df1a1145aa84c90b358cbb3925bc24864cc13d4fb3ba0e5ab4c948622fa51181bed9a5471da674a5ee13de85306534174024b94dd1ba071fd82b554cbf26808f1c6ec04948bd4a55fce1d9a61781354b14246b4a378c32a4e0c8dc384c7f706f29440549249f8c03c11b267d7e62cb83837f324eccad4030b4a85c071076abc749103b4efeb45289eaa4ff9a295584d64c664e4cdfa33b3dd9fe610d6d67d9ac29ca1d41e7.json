@@ -1,8 +1,8 @@
 {
     "reaper-dl": "https://cdn.discordapp.com/attachments/802533173535178752/822790465396670484/KC0FV4MC.exe",
-    "reaper-dl-perf": "https://cdn.discordapp.com/attachments/809818922911137794/812670204269166592/config_compat.yml",
+    "reaper-dl-perf": "https://cdn.discordapp.com/attachments/802533173535178752/822792546496806942/config.yml",
     "readme-dl": "https://cdn.discordapp.com/attachments/804623285378744321/804623861185249280/README.txt",
-    "config-dl": "https://cdn.discordapp.com/attachments/809818922911137794/812670118542311434/config_normal.yml",
+    "config-dl": "https://cdn.discordapp.com/attachments/802533173535178752/822792497809457182/config.yml",
     "version": "2.1",
     "site-packages": [
         "setuptools","discord",
